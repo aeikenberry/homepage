@@ -269,6 +269,11 @@
         "approved": "Approved",
         "available": "Available"
     },
+    "kapowarr": {
+        "volumes": "Volumes",
+        "issues": "Issues",
+        "monitored": "Monitored"
+    },
     "pialert": {
         "total": "Total",
         "connected": "Connected",
